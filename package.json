@@ -26,6 +26,6 @@
     "prop-types": "^15.5.8",
     "react-clone-referenced-element": "^1.0.1",
     "react-native-deprecated-custom-components": "^0.1.0",
-    "@starksasia/waitfor": "^0.1.0"
+    "@starksasia/waitfor": "^0.0.3"
   }
 }
