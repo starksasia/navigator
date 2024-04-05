@@ -1,11 +1,11 @@
 {
-  "name": "@expo/react-native-navigator",
-  "version": "0.5.2",
+  "name": "@starksasia/navigator",
+  "version": "0.0.1",
   "description": "Route-centric navigation built on top of React Native's Navigator",
   "main": "ExNavigator.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/expo/ex-navigator.git"
+    "url": "git+https://github.com/starksasia/navigator.git"
   },
   "keywords": [
     "react-native",
@@ -14,17 +14,18 @@
     "ios",
     "android"
   ],
-  "author": "James Ide",
+  "author": "starksasia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/expo/ex-navigator/issues"
+    "url": "https://github.com/starksasia/navigator/issues"
   },
-  "homepage": "https://github.com/expo/ex-navigator#readme",
+  "homepage": "https://github.com/starksasia/navigator#readme",
   "dependencies": {
     "@expo/react-native-responsive-image": "^1.2.1",
     "invariant": "^2.2.0",
     "prop-types": "^15.5.8",
     "react-clone-referenced-element": "^1.0.1",
-    "react-native-deprecated-custom-components": "^0.1.0"
+    "react-native-deprecated-custom-components": "^0.1.0",
+    "@starksasia/waitfor": "^0.1.0"
   }
 }
